@@ -1,3 +1,3 @@
 public interface Creature {
-    public void attack(Character target);
+    void attack(Character target);
 }
