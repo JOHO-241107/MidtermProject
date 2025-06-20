@@ -16,6 +16,7 @@ public class GameMaster {
         abel.attack(slm);
         abel.attack(slm);
         System.out.println("--- 戦闘終了 ---");
+        System.out.println("最終ステータス:")
         abel.showStats();
         slm.showStats();
         System.out.println(abel.name + "は生きている： " + abel.isAlive());
